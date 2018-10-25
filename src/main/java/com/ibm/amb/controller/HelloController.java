@@ -8,6 +8,6 @@ public class HelloController {
 
 		@RequestMapping("/hello")
 		public String index() {
-			return "Hola mundo con Jenkins JODER!!!!!";
+			return "Hola mundo con Jenkins!!!!!";
 		}
 }
