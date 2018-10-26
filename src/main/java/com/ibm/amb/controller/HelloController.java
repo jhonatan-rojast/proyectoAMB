@@ -8,6 +8,6 @@ public class HelloController {
 
 		@RequestMapping("/hello")
 		public String index() {
-			return "Deploy con Jenkins en WAS Liberty IBM";
+			return "Hello Javier";
 		}
 }
